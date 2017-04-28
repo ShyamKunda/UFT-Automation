@@ -42,3 +42,5 @@ End With
 'Submit the defect
 
 UIAWindow("HP Application Lifecycle").UIAWindow("EntityForm").UIAButton("Submit").Click
+
+'https://community.hpe.com/t5/All-About-the-Apps/4-Steps-to-ALM-automation-with-automated-testing/ba-p/6952164#.WQNXbPmGPIV
